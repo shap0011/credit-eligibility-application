@@ -1,7 +1,7 @@
 # credit_eligibility_application
 This app has been built using Streamlit and deployed with Streamlit community cloud
 
-[Visit the app here](https://credit-eligibility.streamlit.app/)
+[Visit the app here](https://credit-eligibility-application-w2fcjqrf8nbbukg3w5yyqx.streamlit.app/)
 
 password - streamlit
 
